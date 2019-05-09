@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
+Probot
+![Probot logo](https://probot.github.io/assets/logo.png)
 
-DESCRIPTION PLACEHOLDER
+A framework for building GitHub Apps to automate and improve your workflow.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Probot is a framework for building GitHub Apps in Node.js, written in TypeScript. 
+* GitHub Apps can listen to webhook events sent by a repository or organization. 
+* Probot uses its internal event emitter to perform actions based on those events.
 
 ## Getting started
 
